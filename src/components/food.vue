@@ -1,10 +1,10 @@
 <template>
-  <h1>张震</h1>
+    <h1>食品菜单</h1>
 </template>
 
 <script>
     export default {
-        name: "index"
+        name: "food"
     }
 </script>
 
